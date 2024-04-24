@@ -1,8 +1,8 @@
-<div align="center">
-  <h3>Hello! 👋 My name is Ali Can, and I'm an electronics engineer with a growing passion for frontend development. I thrive on challenges and enjoy pushing the boundaries of what's possible in web development. Currently, I'm honing my skills in HTML, CSS, JavaScript, and React to create captivating and user-centric web experiences.</h3>
+<div align="left">
+<h3>Hello! 👋 My name is Ali Can, and I'm an electronics engineer with a growing passion for frontend development. I thrive on challenges and enjoy pushing the boundaries of what's possible in web development. Currently, I'm honing my skills in HTML, CSS, JavaScript, and React to create captivating and user-centric web experiences.</h3>
 </div>
 
-<div align="left">
+<div align="center">
   <h3>Connect with me:</h3>
   <p>
     <a href="https://linkedin.com/in/ali-can-kanbolat-frontnd/" target="_blank">
