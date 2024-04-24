@@ -15,7 +15,7 @@
   <h3>Languages and Tools:</h3>
   <p>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" height="60" style="fill:#007bff;"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer">
 </a>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
