@@ -1,5 +1,5 @@
 <div align="left">
-<h3>Hello! 👋 My name is Ali Can, and I'm an electronics engineer with a growing passion for frontend development. I thrive on challenges and enjoy pushing the boundaries of what's possible in web development. Currently, I'm honing my skills in HTML, CSS, JavaScript, and React to create captivating and user-centric web experiences.</h3>
+  <h3>Hello! 👋 My name is Ali Can, and I'm an electronics engineer with a growing passion for frontend development. I thrive on challenges and enjoy pushing the boundaries of what's possible in web development. Currently, I'm honing my skills in HTML, CSS, JavaScript, and React to create captivating and user-centric web experiences.</h3>
 </div>
 
 <div align="center">
@@ -35,6 +35,7 @@
   </p>
 </div>
 
-<p align="center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicankanbolat&show_icons=true&locale=en&layout=compact" alt="alicankanbolat" />
-</p>
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="alicankanbolat" />
+</div>
