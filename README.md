@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ali Can KANBOLAT</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+Hello! 👋 My name is Ali Can, and I'm an electronics engineer with a growing passion for frontend development. I thrive on challenges and enjoy pushing the boundaries of what's possible in web development. Currently, I'm honing my skills in HTML, CSS, JavaScript, and React to create captivating and user-centric web experiences.
+
+Feel free to explore my repositories to see my projects and follow along on my journey of continuous learning and growth!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alicankanbolat" alt="alicankanbolat" /></a> </p>
 
@@ -13,5 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicankanbolat&show_icons=true&locale=en&layout=compact" alt="alicankanbolat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicankanbolat&show_icons=true&locale=en" alt="alicankanbolat" /></p>
 
