@@ -15,7 +15,7 @@
   <h3>Languages and Tools:</h3>
   <p>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60" style="filter: invert(37%) sepia(73%) saturate(4762%) hue-rotate(250deg) brightness(95%) contrast(87%);"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" height="60" style="fill:#007bff;"/>
 </a>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
