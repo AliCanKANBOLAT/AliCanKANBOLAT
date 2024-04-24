@@ -3,8 +3,6 @@ Hello! 👋 My name is Ali Can, and I'm an electronics engineer with a growing p
 
 Feel free to explore my repositories to see my projects and follow along on my journey of continuous learning and growth!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alicankanbolat" alt="alicankanbolat" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ali-can-kanbolat-frontnd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-can-kanbolat-frontnd/" height="30" width="40" /></a>
